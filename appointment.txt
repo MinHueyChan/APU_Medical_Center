@@ -1,0 +1,78 @@
+A0001
+minhuey11
+2025-09-10
+09:00
+General consultation
+doc1
+S0001
+completed
+55.0
+Symptomatic relief, saline gargle, analgesic if needed
+5
+Best clinic I have visited ever! The doctor was professional.
+
+A0002
+minhuey11
+2025-09-23
+12:00
+General consultation
+doc1
+S0001
+completed
+60.1
+Suspected migraine, keep diary.hhh
+4
+Doctor was understanding, didn’t rush the consultation.
+
+A0003
+minhuey11
+2025-09-28
+11:00
+General consultation
+
+S0001
+completed
+0.0
+
+
+
+
+A0004
+mayeng11
+2025-09-29
+12:00
+Medical checkup
+
+S0001
+completed
+0.0
+
+1
+
+
+A0005
+minhuey11
+2025-10-03
+09:00
+General consultation
+doc1
+S0001
+completed
+0.0
+
+1
+I cancelled the appointment because the staff was rude on the phone. Very disappointing experience.
+
+A0006
+minhuey11
+2025-09-26
+12:00
+Medical checkup
+doc2
+S0001
+completed
+80.0
+
+
+
+

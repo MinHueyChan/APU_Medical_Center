@@ -1,0 +1,18 @@
+D0001
+doc1
+12345
+Dr. John
+M
+john@mail.com
+0123456789
+40
+
+D0002
+doc2
+12345
+Dr. Alice
+F
+alice@hospital.com
+0123456790
+35
+

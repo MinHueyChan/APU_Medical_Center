@@ -1,0 +1,11 @@
+APU MEDICAL CENTER - DOCTOR PERFORMANCE REPORT
+==================================================
+Generated on: 2025-09-23
+
+DOCTOR PERFORMANCE METRICS:
+--------------------------------------------------------------------------------
+Doctor               Total    Completed Revenue    Avg Rating Success%
+--------------------------------------------------------------------------------
+Dr. Alice            1        0        0.00       0.0        0.0     
+Dr. John             3        2        115.00     3.3        66.7    
+
